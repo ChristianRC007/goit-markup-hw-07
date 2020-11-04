@@ -13,7 +13,8 @@
         "../sass/components/_logo.scss",
         "../sass/components/_header.scss",
         "../sass/components/_nav.scss",
-        "../sass/components/_header-contacts.scss"
+        "../sass/components/_header-contacts.scss",
+        "../sass/components/_hero.scss"
     ],
     "names": [],
     "file": "main.css"
