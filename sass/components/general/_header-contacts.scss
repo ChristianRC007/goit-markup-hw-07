@@ -9,8 +9,8 @@
   &__link {
     display: flex;
     align-items: center;
-    color: $secondaryTextColor;
     font-weight: 500;
+    color: $secondaryTextColor;
     text-decoration: none;
     transition: color 250ms $timingFunction;
   }
