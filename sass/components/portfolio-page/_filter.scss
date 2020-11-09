@@ -1,5 +1,6 @@
 .filter {
   @include flexed(flex, center, unset);
+  @extend %list;
 
   margin-bottom: 50px;
 

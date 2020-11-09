@@ -58,7 +58,7 @@ img {
   overflow: hidden;
 }
 
-.nav__list, .contacts, .social__list, .features__list, .work__list, .team__list, .clients__list {
+.nav__list, .contacts, .social__list, .features__list, .work__list, .team__list, .clients__list, .filter, .projects {
   list-style: none;
   margin: 0;
   padding: 0;
